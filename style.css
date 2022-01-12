@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(62, 2, 73);
+    color: yellow;
+}
+div{
+    background-color: rgb(62, 2, 73);
+    color: yellow;
+    border-color: yellow;
+    border-width: 5px;
+    border-style: dashed;
+}
+#wand, #c, #s, #ship{
+    border-color: rgb(200, 200, 200);
+    border-width: 10px;
+    border-style: double;
+}
